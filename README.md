@@ -21,7 +21,7 @@ A production-ready Python backend simulating and analyzing real-time IoT/PLC tel
 
 1. **Clone the repository & set up environment**:
    ```bash
-   git clone <YOUR-REPOSITORY-URL>
+   git clone <https://github.com/krsoft-tools/industry40-telemetry-pipeline>
    cd industry40-telemetry-pipeline
    python3 -m venv venv
    source venv/bin/activate
